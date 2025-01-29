@@ -39,4 +39,3 @@ class Booking {
         System.out.println("Movie: " + movieName + " | Seats: " + seats);
     }
 }
-
